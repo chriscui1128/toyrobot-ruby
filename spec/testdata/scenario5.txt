@@ -1,0 +1,11 @@
+place 0, 0, NORTH
+move
+left
+right
+report
+COMMAND
+TURN_LEFT
+PRINT
+PLACE 2,1,NORTH
+RIGHT
+REPORT
